@@ -1,0 +1,7 @@
+import villains
+
+print (villains.gen())
+#=> The Separated Man
+
+print (villains.genarr(3))
+#=> ['Green Goblin', 'Major Force', 'Roulette']
